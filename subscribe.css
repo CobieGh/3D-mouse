@@ -10,7 +10,7 @@
     --mb-Line-uname: "GiftedITInstitute"; /* Username Line */
     --mb-Tele-uname: "CobieGh1"; /* Username Telegram */
     --mb-Fb-Page-uname: "CobieGh"; /* Username Fb-Page */
-    --mb-YouTube-uname: "Cobie-Gh"; /* Pin YouTube */
+    --mb-YouTube-uname: "mbchannel"; /* Pin YouTube */
 }
 
 #mb .WA, #mb .Line, #mb .Tele, #mb .Fb-Page, #mb .YouTube {display:inline-block; width:90px; text-align:center; margin:0 5px}
