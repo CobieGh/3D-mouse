@@ -1,16 +1,12 @@
 
 /* Social link Re-Design by CobieGh */
 :root {
-    --mb-WA: #25D366; /* Warna WhatsApp */
-    --mb-Line: #0072b1; /* Warna Line */
     --mb-Tele: #0088CC; /* Warna Line */
     --mb-Fb-Page: #0084FF; /* Warna Fb-Page */
     --mb-YouTube: #ff0000; /* Warna YouTube */
-    --mb-WA-uname: "mbgruop"; /* Nomor WhatsApp */
-    --mb-Line-uname: "GiftedITInstitute"; /* Username Line */
-    --mb-Tele-uname: "CobieGh1"; /* Username Telegram */
-    --mb-Fb-Page-uname: "CobieGh"; /* Username Fb-Page */
-    --mb-YouTube-uname: "mbchannel"; /* Pin YouTube */
+    --mb-Tele-uname: "mashbyte"; /* Username Telegram */
+    --mb-Fb-Page-uname: "mashbyte"; /* Username Fb-Page */
+    --mb-YouTube-uname: "2GWd5Kn"; /* Pin YouTube */
 }
 
 #mb .WA, #mb .Line, #mb .Tele, #mb .Fb-Page, #mb .YouTube {display:inline-block; width:90px; text-align:center; margin:0 5px}
